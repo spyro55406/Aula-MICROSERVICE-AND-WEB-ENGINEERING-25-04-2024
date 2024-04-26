@@ -1,0 +1,17 @@
+{
+  "clientes" : [
+    {
+      "id" : "jdaoda",
+      "nome" : "Pedro",
+      "telefone" : "1234354"
+    },
+
+    {
+      "id" : "afadfdsf",
+      "nome" : "Lucas",
+      "telefone" : "1212154"
+    }
+
+  ]
+  }
+
